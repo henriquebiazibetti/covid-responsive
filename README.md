@@ -16,8 +16,8 @@ Abra [http://localhost:3000](http://localhost:3000) no navegador.
 
 Os dados foram obtidos ao consumir uma API disponibilizada pelo [openDataSUS](https://opendatasus.saude.gov.br/).
 
-- API utilizada - [Registro de Ocupação Hospitalar COVID-19](https://opendatasus.saude.gov.br/dataset/registro-de-ocupacao-hospitalar).
-- Além do manual da API e o dicionários de dados, foi utilizado um [artigo](https://transparenciacovid19.ok.org.br/files/ESPECIAL_Transparencia-Covid19_OcupacaoLeitos_01.pdf) como suporte para compreensão dos dados.
+- API - [Registro de Ocupação Hospitalar COVID-19](https://opendatasus.saude.gov.br/dataset/registro-de-ocupacao-hospitalar).
+- Além do [manual](https://opendatasus.saude.gov.br/dataset/registro-de-ocupacao-hospitalar/resource/d9e43883-aaf8-43b2-aed6-772a03e2a578) da API, foi utilizado um [artigo](https://transparenciacovid19.ok.org.br/files/ESPECIAL_Transparencia-Covid19_OcupacaoLeitos_01.pdf) como suporte para compreensão dos dados.
 
 ##
 

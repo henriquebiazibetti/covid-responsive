@@ -22,8 +22,8 @@ export default function Home({ hospitals }) {
         </p>
 
         <div className={styles.grid}>
-          {hospitals.map((hospital) => (
-            <div className={styles.card}>
+          {hospitals.map((hospital, index) => (
+            <div key={index} className={styles.card}>
               <h4>{hospital.nomeCnes}</h4>
               <p>Leitos clínicos: {hospital.ofertaSRAGCli}</p>
               <p>Leitos UTI: {hospital.ofertaSRAGUti}</p>
