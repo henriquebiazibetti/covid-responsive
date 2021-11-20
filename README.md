@@ -1,4 +1,4 @@
-Projeto que busca informações sobre leitos hospitalares de COVID-19, na cidade de Ribeirão Preto - SP.
+Projeto que busca informações sobre leitos hospitalares de COVID-19 na cidade de Ribeirão Preto - SP, acesse [aqui](https://covid-leitos-ribeirao-preto.vercel.app/).
 
 ## Primeiros Passos
 
