@@ -14,11 +14,11 @@ export default function Home({ hospitals }) {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Leitos COVID-19 em Ribeirão Preto - SP
+          Leitos de COVID-19 em Ribeirão Preto - SP
         </h1>
 
         <p className={styles.description}>
-          Informações sobre os leitos hospitalares referentes ao COVID-19, na cidade de Ribeirão Preto, no estado de São Paulo.
+          Informações sobre os leitos hospitalares referentes ao COVID-19, na cidade de Ribeirão Preto, São Paulo.
         </p>
 
         <div className={styles.grid}>
